@@ -7,4 +7,4 @@ Make a HTTP GET request on localhost:8080/foo. This would trigger corresponding 
 
 ### Future plan:
 
-Planning to write a reactive client framework for Golang complying to the [reactive] (http://reactivex.io/) manifesto.
+Planning to write a reactive client framework for Golang complying to the [reactive](http://reactivex.io/) manifesto.
